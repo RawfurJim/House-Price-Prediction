@@ -1,6 +1,6 @@
 # House-Price-Prediction
 
-# Data
+# About The Project
 In this project I have used statistics techniques to analyse the price of House in Sydney and Melbourne. 
 I was able to understand the data and ready it for processing. To examine and predict the data, appropriate models such as
 clusters and regressions were created. In the final section of this research, 
